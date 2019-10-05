@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eifoodaiy.processingdaydenver.org/sitemap.xml
